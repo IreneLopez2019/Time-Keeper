@@ -1,2 +1,5 @@
 export * from "./archeryPana"
+export * from "./todo"
 export * from "./notes"
+export * from "./goals"
+export * from "./dashboard"
